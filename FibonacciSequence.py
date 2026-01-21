@@ -1,4 +1,4 @@
-# This is the program that prints out the first 20 numbers of the fibonacci sequence.
+# This is the algorithm that prints out the first 20 numbers of the fibonacci sequence.
 
 import sys
 import numpy as np
@@ -28,5 +28,6 @@ def fibonacciSequence(var1, var2):
     print(nextFib)
 
     """
+
 
 fibonacciSequence(0, 1)
